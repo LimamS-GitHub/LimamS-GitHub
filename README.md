@@ -1,5 +1,5 @@
 👋 Hi, I’m @LimamS-GitHub 
-I present Selim's projets he's currently studying applied mathématics.
+I present Selim's projets, he's currently studying applied mathématics.
 He's interested in data science and mathematical modeling.
 
 📫 You can reach me on my university email : mohamedselim.limam@edu.univ-paris13.fr.
