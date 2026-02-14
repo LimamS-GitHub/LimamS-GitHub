@@ -1,8 +1,6 @@
 ## Hi there 👋  
 
-I'm a **Data Scientist** interested in building **data pipelines** and **machine learning models** to **analyze data and predict stuff**.
-
-I enjoy working on projects that combine **data engineering**, **NLP**, and **real-world problem solving**.
+I'm a **Data Scientist** interested in **data pipelines**, **machine learning models** and **AI obviously** to **analyze data and predict stuff**.
 
 ### 🚀 Latest Projects — Must See  
 If you check only two projects, make sure it’s these ones 👇
