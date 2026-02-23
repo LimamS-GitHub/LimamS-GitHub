@@ -5,7 +5,7 @@ I'm a **Data Scientist** interested in **data pipelines**, **machine learning mo
 ### 🚀 Latest Projects — Must See  
 If you check only two projects, make sure it’s these ones 👇
 
-- **Job Offers & Skills Analyzer** &rarr; An end-to-end pipeline to extract, analyze, and match skills from job postings.  
+- **Job Offers & Skills Analyzer** &rarr; An end-to-end AI pipeline to extract, analyze, and match skills from job postings.  
 - **Market Sentiment Analysis** &rarr; A sentiment-based analysis (and trading strategy) built on social media and financial NLP models.
 
 
